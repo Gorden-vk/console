@@ -34,3 +34,4 @@ component. Find sources and license at https://github.com/Seldaek/hidden-input.
 [1]: https://symfony.com/backers
 [2]: https://les-tilleuls.coop
 [3]: https://symfony.com/sponsor
+test
